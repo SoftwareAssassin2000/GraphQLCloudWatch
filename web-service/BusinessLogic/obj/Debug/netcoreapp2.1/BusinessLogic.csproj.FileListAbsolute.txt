@@ -1,0 +1,14 @@
+D:\src\SA\system\log-service\BusinessLogic\bin\Debug\netcoreapp2.1\BusinessLogic.deps.json
+D:\src\SA\system\log-service\BusinessLogic\bin\Debug\netcoreapp2.1\BusinessLogic.dll
+D:\src\SA\system\log-service\BusinessLogic\bin\Debug\netcoreapp2.1\BusinessLogic.pdb
+D:\src\SA\system\log-service\BusinessLogic\bin\Debug\netcoreapp2.1\DataAccess.dll
+D:\src\SA\system\log-service\BusinessLogic\bin\Debug\netcoreapp2.1\Model.dll
+D:\src\SA\system\log-service\BusinessLogic\bin\Debug\netcoreapp2.1\DataAccess.pdb
+D:\src\SA\system\log-service\BusinessLogic\bin\Debug\netcoreapp2.1\Model.pdb
+D:\src\SA\system\log-service\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.csprojAssemblyReference.cache
+D:\src\SA\system\log-service\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\src\SA\system\log-service\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.AssemblyInfoInputs.cache
+D:\src\SA\system\log-service\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.AssemblyInfo.cs
+D:\src\SA\system\log-service\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.csproj.CopyComplete
+D:\src\SA\system\log-service\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.dll
+D:\src\SA\system\log-service\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.pdb

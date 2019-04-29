@@ -1,0 +1,12 @@
+D:\src\SA\system\log-service\DataAccess\bin\Debug\netcoreapp2.1\Model.dll
+D:\src\SA\system\log-service\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\src\SA\system\log-service\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+D:\src\SA\system\log-service\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+D:\src\SA\system\log-service\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+D:\src\SA\system\log-service\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+D:\src\SA\system\log-service\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+D:\src\SA\system\log-service\DataAccess\bin\Debug\netcoreapp2.1\Model.pdb
+D:\src\SA\system\log-service\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+D:\src\SA\system\log-service\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+D:\src\SA\system\log-service\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+D:\src\SA\system\log-service\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
